@@ -1,0 +1,29 @@
+html{
+    background: rgb(53, 53, 53);
+}
+header{
+    font-family:'tangerine', 'cursive';
+    text-align: center;
+    font-size: 72px;
+    margin:auto;
+    color:white;
+}
+h3{
+    font-family:'unica one';
+    text-align:center;
+    font-size: 26px;
+    color:white;
+}
+.top img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+
+}
+h2{
+    font-family:'unica one';
+}
+.text{
+    border:solid 2px rbg(253, 239, 166);
+}
